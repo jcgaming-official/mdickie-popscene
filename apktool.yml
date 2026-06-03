@@ -1,0 +1,23 @@
+version: 2.12.1
+apkFileName: noads_unlimoney.apk
+doNotCompress:
+- arsc
+- gif
+- jpg
+- png
+- assets/Game.swf
+- assets/META-INF/AIR/extensions/com.distriqt.Core/META-INF/ANE/Android-ARM64/library.swf
+- assets/META-INF/AIR/extensions/com.distriqt.Core/library.swf
+- assets/META-INF/AIR/extensions/com.distriqt.InAppBilling/META-INF/ANE/Android-ARM64/billing-6.2.1-res/raw/com_android_billingclient_heterodyne_info
+- assets/META-INF/AIR/extensions/com.distriqt.InAppBilling/META-INF/ANE/Android-ARM64/billing-6.2.1-res/raw/com_android_billingclient_registration_info.binarypb
+- assets/META-INF/AIR/extensions/com.distriqt.InAppBilling/META-INF/ANE/Android-ARM64/library.swf
+- assets/META-INF/AIR/extensions/com.distriqt.InAppBilling/library.swf
+- assets/META-INF/AIR/extensions/com.distriqt.playservices.Base/META-INF/ANE/Android-ARM64/library.swf
+- assets/META-INF/AIR/extensions/com.distriqt.playservices.Base/library.swf
+- assets/META-INF/AIR/extensions/com.google.android.play/META-INF/ANE/Android-ARM64/library.swf
+- assets/META-INF/AIR/extensions/com.google.android.play/library.swf
+- assets/META-INF/AIR/extensions/com.newpixel.air.nativeextensions.SongPicker/META-INF/ANE/Android-ARM64/library.swf
+- assets/META-INF/AIR/extensions/com.newpixel.air.nativeextensions.SongPicker/library.swf
+- res/raw/debuginfo
+- res/raw/rgba8888
+- res/raw/startga.html

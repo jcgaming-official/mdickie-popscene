@@ -1,0 +1,5 @@
+build/
+*.apk
+.DS_Store
+.idea/
+*.log
