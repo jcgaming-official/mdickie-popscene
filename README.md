@@ -1,7 +1,8 @@
-# 🎸 Popscene Custom MP3 Picker Modernization & Mod
+# Popscene Custom MP3 Picker Modernization & Mod
 
 [![GitHub stars](https://img.shields.io/github/stars/jcgaming-official/mdickie-popscene.svg?style=social)](https://github.com/jcgaming-official/mdickie-popscene)
-[![GitHub releases](https://img.shields.io/github/downloads/jcgaming-official/mdickie-popscene/total.svg)](https://github.com/jcgaming-official/mdickie-popscene)
+[![Latest Release](https://img.shields.io/github/v/release/jcgaming-official/mdickie-popscene)](https://github.com/jcgaming-official/mdickie-popscene/releases)
+
 
 A modernized patch and feature enhancement for MDickie's **Popscene** (Android). This patch updates the legacy, deprecated native extension logic to comply with **Storage Access Framework (SAF)** and Scoped Storage requirements on **Android 12, 13, 14, 15, and 16+**.
 
